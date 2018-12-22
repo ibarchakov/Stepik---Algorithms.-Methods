@@ -1,6 +1,6 @@
-"""There is an integer given 1≤n≤105 and an array of different natural numbers
-not exceeding 109 in ascending order A[1…n] in a first line,
--- an integer 1≤k≤105 and a k row of natural numbers not exceeding 109 in a second line.
+"""There is an integer given 1≤n≤10**5 and an array of different natural numbers
+not exceeding 10**9 in ascending order A[1…n] in a first line,
+-- an integer 1≤k≤10**5 and a k row of natural numbers not exceeding 109 in a second line.
 For each i from 1 to k it is necessary to output the index 1≤j≤n that satisfies A[j]=bi,
 or −1 if there is no such j.
 
