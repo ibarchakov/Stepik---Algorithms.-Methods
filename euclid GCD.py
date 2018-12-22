@@ -1,4 +1,4 @@
-"""Find the GCD for a given two integers 1≤a,b≤2⋅109.
+"""Find the GCD for a given two integers 1≤a,b≤2⋅10**9.
 
 Sample Input 1:
 18 35
