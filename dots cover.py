@@ -1,7 +1,7 @@
 """For n given intervals find the set of points of a minimal size for which each interval
 contains at least on of the points.
 In a first line there is given a number of intervals 1≤n≤100.
-Each of a next n lines consists of two numbers 0≤l≤r≤109 defining the start and the end of the interval.
+Each of a next n lines consists of two numbers 0≤l≤r≤10**9 defining the start and the end of the interval.
 Output the optimal number of m points and the points itself.
 If there are many such sets then output any of them.
 
